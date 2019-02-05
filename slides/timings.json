@@ -1,0 +1,46 @@
+{
+  "slides/chapter_1_813e6db35a04a1c8ecd4454fde5f81c1.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.19069220430107528,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.49176747311827956,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5390793010752688,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5390793010752688,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5476814516129033,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    }
+  ]
+}
