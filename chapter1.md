@@ -57,7 +57,6 @@ Notre jeux des données utilise la base `auto2.txt` les variables sont:
 2. les variables de dfdkljmklfhf
 3. dsgfdhfh
 
-
 `@instructions`
 1. utiliser la library necessaire à l'utilisataodjnbgf
 2. djhfdkjglmfdkhfg
