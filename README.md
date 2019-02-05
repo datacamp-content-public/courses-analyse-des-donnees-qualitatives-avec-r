@@ -1,0 +1,1 @@
+# courses-analyse-des-donnees-qualitatives-avec-r
